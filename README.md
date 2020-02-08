@@ -6,3 +6,6 @@ Xcode->Organizer->Apps (How to delete an app from Xcode Organizer?)
 
 How to delete an archive from an Organizer?
 ~/Library/Developer/Xcode/Archives
+
+Devices
+~/Library/Developer/CoreSimulator/Devices/
