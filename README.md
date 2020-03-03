@@ -13,5 +13,7 @@ List of folders used by Xcode
 # Provisioning Profiles
 ~/Library/MobileDevice
 
-#
+# Apple Configurator
+
+~/Library/Group Containers/K36BKF7T3D.group.com.apple.configurator/Caches/Assets/TemporaryItems/MobileApps
  
