@@ -16,4 +16,7 @@ List of folders used by Xcode
 # Apple Configurator
 
 ~/Library/Group Containers/K36BKF7T3D.group.com.apple.configurator/Caches/Assets/TemporaryItems/MobileApps
+
+# IBDesignable Agent Logs
+~/Library/Logs/DiagnosticReports
  
